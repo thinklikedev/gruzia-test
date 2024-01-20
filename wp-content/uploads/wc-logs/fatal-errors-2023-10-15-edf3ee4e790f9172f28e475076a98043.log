@@ -1,0 +1,9 @@
+2023-10-15T21:15:58+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /var/www/gruzia/data/www/gruzia.md/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /var/www/gruzia/data/www/gruzia.md/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /var/www/gruzia/data/www/gruzia.md/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /var/www/gruzia/data/www/gruzia.md/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /var/www/gruzia/data/www/gruzia.md/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct(Object(WC_Cart))
+#4 /var/www/gruzia/data/www/gruzia.md/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /var/www/gruzia/data/www/gruzia.md/wp-content/themes/gruzia/functions.php(104): WC_Cart->set_quantity('6a9aeddfc689c1d...', в /var/www/gruzia/data/www/gruzia.md/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php на строке 225
+

@@ -1,0 +1,15 @@
+User-agent: *
+
+Disallow: /shop/
+Disallow: /qr-menu/
+Disallow: /qr-menu/*
+Disallow: /qr-orders/
+Disallow: /qr-special/*
+Disallow: /qr-special/
+Disallow: /qr-cart/*
+Disallow: /qr-cart/
+Disallow: /menu/uncategorized/*
+Disallow: /menu/product/*
+
+Host: https://gruzia.md/
+Sitemap: https://gruzia.md/sitemap_index.xml

@@ -1,0 +1,26 @@
+<?php
+register_post_type('callback', [
+	'label'  => null,
+		'labels' => [
+			'name'               => 'Заявки',
+			'singular_name'      => 'Заявка',
+			'add_new'            => 'Добавить заявку',
+			'add_new_item'       => 'Добавление заявки',
+			'edit_item'          => 'Редактирование заявки',
+			'new_item'           => 'Новая заявка',
+			'view_item'          => 'Смотреть заявку',
+			'search_items'       => 'Искать заявку',
+			'not_found'          => 'Не найдено',
+			'not_found_in_trash' => 'Не найдено в корзине',
+			'parent_item_colon'  => '',
+			'menu_name'          => 'Обратная связь',
+		],
+		'description'         => '',
+		'public'              => false,
+		'show_ui'             => true,
+		'menu_position'       => 51,
+		'menu_icon'           => 'dashicons-email',
+		'hierarchical'        => false,
+		'supports'            => ['title'],
+		'query_var'           => true,
+]);

@@ -1,0 +1,26 @@
+<?php
+register_post_type('gallery_item', [
+	'label'  => null,
+		'labels' => [
+			'name'               => 'Галерея',
+			'singular_name'      => 'Элемент галереи',
+			'add_new'            => 'Добавить',
+			'add_new_item'       => 'Добавить новую',
+			'edit_item'          => 'Редактирование',
+			'new_item'           => 'Новая',
+			'view_item'          => 'Смотреть',
+			'search_items'       => 'Искать',
+			'not_found'          => 'Не найдено',
+			'not_found_in_trash' => 'Не найдено в корзине',
+			'parent_item_colon'  => '',
+			'menu_name'          => 'Галерея',
+		],
+		'description'         => '',
+		'public'              => false,
+		'publicly_queryable'  => false,
+		'show_ui'             => true,
+		'menu_position'       => 52,
+		'hierarchical'        => false,
+		'supports'            => ['title', 'thumbnail'],
+		'query_var'           => true,
+]);

@@ -1,0 +1,12 @@
+2023-11-03T07:39:31+00:00 CRITICAL syntax error, unexpected ';', expecting ')' в C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\front-page.php на строке 130
+
+2023-11-03T14:39:28+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php:225
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1401): WC_Cart_Totals->__construct(Object(WC_Cart))
+#4 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\functions.php(104): WC_Cart->set_quantity('6a9aeddfc689c1d...', '0', true)
+#6 C:\OpenServer\domains\gruzi в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php на строке 225
+

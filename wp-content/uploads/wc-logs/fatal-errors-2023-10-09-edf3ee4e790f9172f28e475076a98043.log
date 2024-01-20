@@ -1,0 +1,8 @@
+2023-10-09T12:38:31+00:00 CRITICAL Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.3.31-1~deb10u5. в /var/www/gruzia/data/www/gruzia.md/wp-content/plugins/critical-css-for-wp/css-extractor/vendor/composer/platform_check.php на строке 24
+
+2023-10-09T12:40:00+00:00 CRITICAL Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.3.31-1~deb10u5. в /var/www/gruzia/data/www/gruzia.md/wp-content/plugins/critical-css-for-wp/css-extractor/vendor/composer/platform_check.php на строке 24
+
+2023-10-09T12:41:09+00:00 CRITICAL Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.3.31-1~deb10u5. в /var/www/gruzia/data/www/gruzia.md/wp-content/plugins/critical-css-for-wp/css-extractor/vendor/composer/platform_check.php на строке 24
+
+2023-10-09T12:42:20+00:00 CRITICAL Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.3.31-1~deb10u5. в /var/www/gruzia/data/www/gruzia.md/wp-content/plugins/critical-css-for-wp/css-extractor/vendor/composer/platform_check.php на строке 24
+

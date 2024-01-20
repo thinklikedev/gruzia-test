@@ -1,0 +1,394 @@
+2023-10-23T09:01:34+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Ошибка базы данных. in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-cont в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T09:12:17+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T09:12:17+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T09:12:19+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T09:12:22+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T09:12:26+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T09:12:28+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T09:12:30+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T09:12:32+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T09:12:35+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T09:12:37+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T09:13:14+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T09:13:16+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T09:13:22+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T09:13:24+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T10:50:04+00:00 CRITICAL syntax error, unexpected ')' в C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\front-page.php на строке 15
+
+2023-10-23T10:50:14+00:00 CRITICAL syntax error, unexpected ')' в C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\front-page.php на строке 15
+
+2023-10-23T10:59:16+00:00 CRITICAL Object of class WP_Error could not be converted to string в C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\front-page.php на строке 6
+
+2023-10-23T10:59:41+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_query_var(), 0 passed in C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\front-page.php on line 3 and at least 1 expected in C:\OpenServer\domains\gruzia\wp-includes\query.php:27
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\front-page.php(3): get_query_var()
+#1 C:\OpenServer\domains\gruzia\wp-includes\class-wp-hook.php(310): {closure}(Array)
+#2 C:\OpenServer\domains\gruzia\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#3 C:\OpenServer\domains\gruzia\wp-includes\post-template.php(859): apply_filters('body_class', Array, Array)
+#4 C:\OpenServer\domains\gruzia\wp-includes\post-template.php(617): get_body_class(Array)
+#5 C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\header.php(29): body_class('home-page')
+#6 C:\OpenServer\domains\gruzia\wp-includes\template.php(783): require_once('C:\\OpenServer\\d...')
+#7 C:\OpenServer\domains\gruzia\wp-includes\template.php(718): load_template('C:\\OpenServe в C:\OpenServer\domains\gruzia\wp-includes\query.php на строке 27
+
+2023-10-23T11:00:13+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_query_var(), 0 passed in C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\front-page.php on line 3 and at least 1 expected in C:\OpenServer\domains\gruzia\wp-includes\query.php:27
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\front-page.php(3): get_query_var()
+#1 C:\OpenServer\domains\gruzia\wp-includes\class-wp-hook.php(310): {closure}(Array)
+#2 C:\OpenServer\domains\gruzia\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#3 C:\OpenServer\domains\gruzia\wp-includes\post-template.php(859): apply_filters('body_class', Array, Array)
+#4 C:\OpenServer\domains\gruzia\wp-includes\post-template.php(617): get_body_class(Array)
+#5 C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\header.php(29): body_class('home-page')
+#6 C:\OpenServer\domains\gruzia\wp-includes\template.php(783): require_once('C:\\OpenServer\\d...')
+#7 C:\OpenServer\domains\gruzia\wp-includes\template.php(718): load_template('C:\\OpenServe в C:\OpenServer\domains\gruzia\wp-includes\query.php на строке 27
+
+2023-10-23T11:00:23+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_query_var(), 0 passed in C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\front-page.php on line 3 and at least 1 expected in C:\OpenServer\domains\gruzia\wp-includes\query.php:27
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\front-page.php(3): get_query_var()
+#1 C:\OpenServer\domains\gruzia\wp-includes\class-wp-hook.php(310): {closure}(Array)
+#2 C:\OpenServer\domains\gruzia\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#3 C:\OpenServer\domains\gruzia\wp-includes\post-template.php(859): apply_filters('body_class', Array, Array)
+#4 C:\OpenServer\domains\gruzia\wp-includes\post-template.php(617): get_body_class(Array)
+#5 C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\header.php(29): body_class('home-page')
+#6 C:\OpenServer\domains\gruzia\wp-includes\template.php(783): require_once('C:\\OpenServer\\d...')
+#7 C:\OpenServer\domains\gruzia\wp-includes\template.php(718): load_template('C:\\OpenServe в C:\OpenServer\domains\gruzia\wp-includes\query.php на строке 27
+
+2023-10-23T11:14:26+00:00 CRITICAL Uncaught Error: Call to undefined function get_query_object() in C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\front-page.php:14
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\gruzia\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\gruzia\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\front-page.php на строке 14
+
+2023-10-23T11:14:47+00:00 CRITICAL Uncaught Error: Call to undefined function get_query_object() in C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\front-page.php:14
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\gruzia\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\gruzia\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\front-page.php на строке 14
+
+2023-10-23T12:37:29+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Ошибка базы данных. in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-cont в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:39:34+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:39:37+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:39:37+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:39:39+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:39:41+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:39:44+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:39:46+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:39:48+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:39:52+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:39:54+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:39:57+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:39:59+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:40:01+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:40:04+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:41:29+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:41:31+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:43:37+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:43:39+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:43:41+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:43:43+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:43:47+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:43:49+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-co в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:47:01+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Ошибка базы данных. in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-cont в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:47:32+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(105): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-c в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:47:36+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(105): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-c в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:47:42+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(105): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-c в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:47:56+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Ошибка базы данных. in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-cont в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:47:59+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(105): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-c в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T12:48:05+00:00 CRITICAL Uncaught RuntimeException: Ошибка при сохранении действия: Ошибка при сохранении действия: Duplicate entry '0' for key 'PRIMARY' in C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action(Object(ActionScheduler_Action), NULL)
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action(Object(ActionScheduler_Action))
+#2 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(105): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#3 C:\OpenServer\domains\gruzia\wp-c в C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\packages\action-scheduler\classes\migration\ActionScheduler_DBStoreMigrator.php на строке 44
+
+2023-10-23T13:38:32+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\woocommerce\cart\mini-cart.php:33
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2241): wc_get_template('cart/mini-cart....', Array)
+#2 C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\header.php(33): woocommerce_mini_cart()
+#3 C:\OpenServer\domains\gruzia\wp-includes\template.php(785): require_once('C:\\OpenServer\\d...')
+#4 C:\OpenServer\domains\gruzia\wp-includes\template.php(720): load_template('C:\\OpenServer\\d...', true, Array)
+#5 C:\OpenServer\domains\gruzia\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#6 C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\front-page.php(8): get_header()
+#7 C:\OpenServer\domains\gruzia\wp-includes\template-loader.php(106): include('C:\\OpenServer в C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\woocommerce\cart\mini-cart.php на строке 33
+
+2023-10-23T13:38:37+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\woocommerce\cart\mini-cart.php:33
+Stack trace:
+#0 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OpenServer\domains\gruzia\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2241): wc_get_template('cart/mini-cart....', Array)
+#2 C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\header.php(33): woocommerce_mini_cart()
+#3 C:\OpenServer\domains\gruzia\wp-includes\template.php(785): require_once('C:\\OpenServer\\d...')
+#4 C:\OpenServer\domains\gruzia\wp-includes\template.php(720): load_template('C:\\OpenServer\\d...', true, Array)
+#5 C:\OpenServer\domains\gruzia\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#6 C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\front-page.php(8): get_header()
+#7 C:\OpenServer\domains\gruzia\wp-includes\template-loader.php(106): include('C:\\OpenServer в C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\woocommerce\cart\mini-cart.php на строке 33
+
+2023-10-23T14:56:14+00:00 CRITICAL syntax error, unexpected 'class' (T_CLASS), expecting ';' в C:\OpenServer\domains\gruzia\wp-content\themes\gruzia\header.php на строке 76
+
